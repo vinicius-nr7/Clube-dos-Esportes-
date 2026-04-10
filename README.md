@@ -8,7 +8,7 @@ servindo como base para estudos de automação de testes e garantia de qualidade
 
 
 
-Funcionalidades
+FUNCIONALIDADES
 
 CRUD Completo: Cadastro, listagem, atualização e exclusão (lógica) de séries esportivas.
 
@@ -20,7 +20,7 @@ Tratamento de Enums: Organização de categorias esportivas (Futebol, Basquete, 
 
 
 
-Tecnologias e Conceitos Aplicados
+TECNOLOGIAS E CONCEITOS APLICADOS
 Linguagem: C# (.NET 10).
 
 Arquitetura: Injeção de dependência e desacoplamento com Interfaces.
@@ -31,7 +31,7 @@ Clean Code: Nomenclatura clara de métodos e organização de arquivos por pasta
 
 
 
-Foco em Quality Assurance (QA)
+FOCO EM QUALITY ASSURANCE (QA)
 
 Este projeto foi desenvolvido com a mentalidade de um Analista de QA:
 
