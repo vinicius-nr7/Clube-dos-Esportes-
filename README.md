@@ -1,4 +1,5 @@
-Clube dos Esportes - Gestão de Séries e Eventos
+Clube dos Esportes - Gestão de Séries e Eventos.
+
 O Clube dos Esportes é uma aplicação de console desenvolvida em C#
 Que utiliza conceitos avançados de Programação Orientada a Objetos (POO).
 Para gerenciar um catálogo de séries esportivas. 
