@@ -12,3 +12,4 @@ C:\Users\Vinicius Rodrigues\ClubeDosEsportes\obj\Debug\net10.0\refint\ClubeDosEs
 C:\Users\Vinicius Rodrigues\ClubeDosEsportes\obj\Debug\net10.0\ClubeDosEsportes.pdb
 C:\Users\Vinicius Rodrigues\ClubeDosEsportes\obj\Debug\net10.0\ClubeDosEsportes.genruntimeconfig.cache
 C:\Users\Vinicius Rodrigues\ClubeDosEsportes\obj\Debug\net10.0\ref\ClubeDosEsportes.dll
+C:\Users\Vinicius Rodrigues\ClubeDosEsportes\obj\Debug\net10.0\ClubeDosEsportes.sourcelink.json
