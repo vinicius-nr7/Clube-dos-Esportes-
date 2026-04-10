@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Genero": 1,
+    "Titulo": "All or Nothing: Brazil",
+    "Descricao": "Bastidores da Seleção Brasileira de Futebol na Copa América.",
+    "Ano": 2020,
+    "Excluido": false
+  },
+  {
+    "Id": 2,
+    "Genero": 2,
+    "Titulo": "The Last Dance",
+    "Descricao": "A trajetória de Michael Jordan e o Chicago Bulls nos anos 90.",
+    "Ano": 2020,
+    "Excluido": false
+  },
+  {
+    "Id": 3,
+    "Genero": 3,
+    "Titulo": "Bater: 10th Inning",
+    "Descricao": "Documentário profundo sobre a era moderna do Basebol.",
+    "Ano": 2010,
+    "Excluido": false
+  },
+  {
+    "Id": 4,
+    "Genero": 4,
+    "Titulo": "Vôlei: Ouro Olímpico",
+    "Descricao": "A jornada das seleções brasileiras rumo ao topo do pódio.",
+    "Ano": 2016,
+    "Excluido": false
+  },
+  {
+    "Id": 5,
+    "Genero": 5,
+    "Titulo": "Break Point",
+    "Descricao": "Os bastidores do circuito mundial de Tênis profissional.",
+    "Ano": 2023,
+    "Excluido": false
+  },
+  {
+    "Id": 6,
+    "Genero": 6,
+    "Titulo": "Drive to Survive",
+    "Descricao": "A adrenalina e os segredos dos boxes da Fórmula 1.",
+    "Ano": 2019,
+    "Excluido": false
+  },
+  {
+    "Id": 7,
+    "Genero": 7,
+    "Titulo": "UFC: Embedded",
+    "Descricao": "A preparação intensa dos lutadores para o octógono.",
+    "Ano": 2014,
+    "Excluido": false
+  }
+]
