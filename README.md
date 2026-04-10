@@ -6,7 +6,10 @@ Para gerenciar um catálogo de séries esportivas.
 O projeto foi construído com foco em manutenibilidade e testabilidade,
 servindo como base para estudos de automação de testes e garantia de qualidade (QA).
 
-🚀 Funcionalidades
+
+
+Funcionalidades
+
 CRUD Completo: Cadastro, listagem, atualização e exclusão (lógica) de séries esportivas.
 
 Persistência de Dados: Armazenamento e recuperação de informações via arquivos JSON (series.json).
@@ -14,6 +17,8 @@ Persistência de Dados: Armazenamento e recuperação de informações via arqui
 Arquitetura Baseada em Interfaces: Uso de contratos (IRepositorio) para desacoplamento de código.
 
 Tratamento de Enums: Organização de categorias esportivas (Futebol, Basquete, UFC, etc.) de forma estruturada.
+
+
 
 Tecnologias e Conceitos Aplicados
 Linguagem: C# (.NET 10).
@@ -24,7 +29,10 @@ Padrões de Projeto: Repository Pattern para abstração da lógica de dados.
 
 Clean Code: Nomenclatura clara de métodos e organização de arquivos por pastas (Classes, Enums, Interfaces).
 
+
+
 Foco em Quality Assurance (QA)
+
 Este projeto foi desenvolvido com a mentalidade de um Analista de QA:
 
 Validação de Inputs: O menu trata entradas do usuário com ToUpper() e verificações de tipo.
