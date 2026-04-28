@@ -77,12 +77,6 @@ dotnet run
    - Escolha `4` para alterar algum item.
    - Escolha `2` para remover um item.
 
-## Dicas para quem está iniciando
-
-- Olhe o método `Main()` e veja como ele usa um `while` para manter o menu ativo até o usuário escolher sair.
-- Observe como cada operação é isolada em um método próprio. Isso deixa o código mais fácil de entender e manter.
-- Experimente adicionar validações extras, como impedir títulos vazios ou anos muito antigos.
-- Para aprender sobre persistência, tente integrar `SerieRepositorio` ao menu, substituindo a lista em memória por um repositório que salva em `series.json`.
 
 ## Próximos passos
 
