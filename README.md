@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ClubeDosEsportes
 
 Este projeto é um aplicativo de console em C# (.NET 10) que simula um clube de séries esportivas. Ele mostra como fazer um menu interativo com operações básicas de cadastro, edição, exclusão e pesquisa.
@@ -139,4 +139,4 @@ No terminal, execute:
 
 Bash
 dotnet run
->>>>>>> db95a5dd3bd28f8a9e63f005820a47fdedb7f79a
+
